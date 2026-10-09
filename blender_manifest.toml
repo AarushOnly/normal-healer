@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "normal_healer"
+version = "1.0.0"
+name = "NormalHealer: Smart Boolean & Shading Fixer"
+tagline = "1-Click boolean cut and curved surface normal healing"
+maintainer = "Integral <integral7535@gmail.com>"
+type = "add-on"
+
+tags = ["Modeling"]
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+copyright = [
+  "2026 Integral <integral7535@gmail.com>",
+]
+website = "https://github.com/aarushOnly/normal-healer"
+
